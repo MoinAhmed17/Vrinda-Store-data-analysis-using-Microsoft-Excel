@@ -2,6 +2,8 @@
 
 Obejctive:- Vrinda store wants to create a annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024
 
+Task:
+
 1- Compare the sales and orders using single chart
 
 2- Which month got the highest sales and orders?
