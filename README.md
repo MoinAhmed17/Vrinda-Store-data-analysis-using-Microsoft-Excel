@@ -9,7 +9,7 @@ Task:
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
-1- Compare the sales and orders using single chart
+1- Compare the sales and orders using single chart.
 
 2- Which month got the highest sales and orders?
 
