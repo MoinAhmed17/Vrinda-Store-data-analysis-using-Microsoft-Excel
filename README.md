@@ -1,6 +1,6 @@
 # Vrinda-Store-data-analysis-using-Microsoft-Excel
 
-Obejctive:- Vrinda store wants to create a annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024
+Obejctive: Vrinda store wants to create a annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024
 
 
 
